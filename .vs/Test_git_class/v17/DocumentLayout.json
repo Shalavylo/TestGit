@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\class\\Test_git_class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A38A3346-74E9-407A-85D2-7794A5BB7419}|Test_git_class\\Test_git_class.vcxproj|C:\\Users\\1\\Desktop\\class\\Test_git_class\\Test_git_class\\Test_git_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A38A3346-74E9-407A-85D2-7794A5BB7419}|Test_git_class\\Test_git_class.vcxproj|solutionrelative:Test_git_class\\Test_git_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 304,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test_git_class.cpp",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\class\\Test_git_class\\Test_git_class\\Test_git_class.cpp",
+              "RelativeDocumentMoniker": "Test_git_class\\Test_git_class.cpp",
+              "ToolTip": "C:\\Users\\1\\Desktop\\class\\Test_git_class\\Test_git_class\\Test_git_class.cpp",
+              "RelativeToolTip": "Test_git_class\\Test_git_class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T12:05:47.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
